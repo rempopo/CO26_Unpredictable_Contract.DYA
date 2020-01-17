@@ -10,6 +10,7 @@ Russian PMC Mozart is assaulting ISIS-held refinery in Syria
 - Класс танка теперь можно выбрать в Mission parameters
 - Небольшой апдейт китов игроков (чуть больше разнообразия)
 - Небольшие изменения брифинга
+- Удалена зависимость от JBad
 
 # NOT APPROVED
 | Reviewer | Result |
