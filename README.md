@@ -1,15 +1,15 @@
 # CO26 Unpredictable Contract
 Russian PMC Mozart is assaulting ISIS-held refinery in Syria
 
-<img src='{Image URL}' />
+<img src='https://raw.githubusercontent.com/rempopo/CO26_Unpredictable_Contract.DYA/master/overview.jpg' />
 
 ### Version: 1B
 
 ### Changelog: 
 - tSFramework updated to latest on 17.01.2020 
-- Класс танка теперь можно выбрать в Mission parameters
-- Небольшой апдейт китов игроков (чуть больше разнообразия)
-- Небольшие изменения брифинга
+- РљР»Р°СЃСЃ С‚Р°РЅРєР° С‚РµРїРµСЂСЊ РјРѕР¶РЅРѕ РІС‹Р±СЂР°С‚СЊ РІ Mission parameters
+- РќРµР±РѕР»СЊС€РѕР№ Р°РїРґРµР№С‚ РєРёС‚РѕРІ РёРіСЂРѕРєРѕРІ (С‡СѓС‚СЊ Р±РѕР»СЊС€Рµ СЂР°Р·РЅРѕРѕР±СЂР°Р·РёСЏ)
+- РќРµР±РѕР»СЊС€РёРµ РёР·РјРµРЅРµРЅРёСЏ Р±СЂРёС„РёРЅРіР°
 
 # NOT APPROVED
 | Reviewer | Result |
