@@ -9,7 +9,7 @@ Russian PMC Mozart is assaulting ISIS-held refinery in Syria
 - tSFramework updated to latest on 17.01.2020 
 - Класс танка теперь можно выбрать в Mission parameters
 - Небольшой апдейт китов игроков (чуть больше разнообразия)
-- Небольшие изменения брифинга
+- Небольшие изменения брифинга, добавил маркеров на карту, починил концовки
 - Удалена зависимость от JBad
 
 # NOT APPROVED
