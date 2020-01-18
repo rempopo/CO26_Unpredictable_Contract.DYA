@@ -12,8 +12,8 @@ Russian PMC Mozart is assaulting ISIS-held refinery in Syria
 - Небольшие изменения брифинга, добавил маркеров на карту, починил концовки
 - Удалена зависимость от JBad
 
-# NOT APPROVED
+# APPROVED
 | Reviewer | Result |
 | ------------ | ------------- |
-| - | - |
-| - | - |
+| Vocasyan | Approved |
+| Кабан | Approved |
