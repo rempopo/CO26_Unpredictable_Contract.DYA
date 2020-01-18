@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=186;
+		nextID=208;
 	};
 	class Camera
 	{
-		pos[]={1481.2426,157.71487,3022.157};
-		dir[]={-0.89523906,-0.33449075,0.29472178};
-		up[]={-0.31784847,0.94234139,0.10463857};
-		aside[]={0.312729,2.9154035e-007,0.94993347};
+		pos[]={1066.7351,73.480721,4669.0195};
+		dir[]={-0.24063732,-0.65088701,0.72016966};
+		up[]={-0.20629971,0.75910008,0.61740506};
+		aside[]={0.94853812,9.3424751e-007,0.31694254};
 	};
 };
 binarizationWanted=0;
@@ -404,25 +404,6 @@ class CustomAttributes
 		name="Multiplayer";
 		class Attribute0
 		{
-			property="RespawnButton";
-			expression="true";
-			class Value
-			{
-				class data
-				{
-					class type
-					{
-						type[]=
-						{
-							"SCALAR"
-						};
-					};
-					value=0;
-				};
-			};
-		};
-		class Attribute1
-		{
 			property="RespawnTemplates";
 			expression="true";
 			class Value
@@ -468,6 +449,25 @@ class CustomAttributes
 							};
 						};
 					};
+				};
+			};
+		};
+		class Attribute1
+		{
+			property="RespawnButton";
+			expression="true";
+			class Value
+			{
+				class data
+				{
+					class type
+					{
+						type[]=
+						{
+							"SCALAR"
+						};
+					};
+					value=0;
 				};
 			};
 		};
@@ -3136,7 +3136,7 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={804.66229,41.103706,4436.4102};
+				position[]={804.66235,41.103703,4436.4097};
 			};
 			areaSize[]={1,-1,1};
 			id=229;
@@ -6748,12 +6748,13 @@ class Mission
 					dataType="Logic";
 					class PositionInfo
 					{
-						position[]={-1901.9714,34.767921,4356.1523};
-						angles[]={0.0036864446,0,0.006347667};
+						position[]={36.095661,34.34082,4798.2158};
+						angles[]={0.0075011365,0,6.2631893};
 					};
 					init="this setVariable ['dzn_dynai_setBehavior', 'indoor'];";
 					id=597;
 					type="Logic";
+					atlOffset=-0.00064849854;
 				};
 				class Item10
 				{
@@ -6788,7 +6789,7 @@ class Mission
 				};
 			};
 			id=475;
-			atlOffset=-21.250103;
+			atlOffset=-17.778299;
 		};
 		class Item163
 		{
@@ -7703,12 +7704,12 @@ class Mission
 					dataType="Logic";
 					class PositionInfo
 					{
-						position[]={-1836.7629,36.927864,4556.0854};
+						position[]={101.30415,37.603428,4998.1489};
 					};
 					init="call{this setVariable ['dzn_gear', 'kit_jihadists_random'];}";
 					id=576;
 					type="Logic";
-					atlOffset=1.5440788;
+					atlOffset=1.5434303;
 				};
 				class Item1
 				{
@@ -7760,7 +7761,7 @@ class Mission
 				};
 			};
 			id=577;
-			atlOffset=-1.7602768;
+			atlOffset=-1.4992409;
 		};
 		class Item190
 		{
@@ -7810,21 +7811,19 @@ class Mission
 						angles[]={0,2.2948694,0};
 					};
 					side="East";
-					flags=3;
+					flags=7;
 					class Attributes
 					{
 						skill=0.7528435;
 					};
 					id=594;
 					type="O_Soldier_F";
-					atlOffset=8.994503;
 				};
 			};
 			class Attributes
 			{
 			};
 			id=593;
-			atlOffset=8.994503;
 		};
 		class Item193
 		{
@@ -7842,13 +7841,12 @@ class Mission
 						angles[]={0,2.0148387,0};
 					};
 					side="East";
-					flags=3;
+					flags=7;
 					class Attributes
 					{
 					};
 					id=596;
 					type="O_Soldier_F";
-					atlOffset=8.9746933;
 				};
 			};
 			class Attributes
@@ -9454,7 +9452,7 @@ class Mission
 			colorName="ColorEAST";
 			a=10;
 			b=600;
-			angle=210.33394;
+			angle=210.33391;
 			id=754;
 			atlOffset=-0.11100769;
 		};
@@ -9483,7 +9481,7 @@ class Mission
 			fillName="Border";
 			a=200;
 			b=310;
-			angle=21.881788;
+			angle=21.881784;
 			drawBorder=1;
 			id=756;
 			atlOffset=-5.8241577;
@@ -9546,11 +9544,11 @@ class Mission
 	{
 		class LinkIDProvider
 		{
-			nextID=87;
+			nextID=88;
 		};
 		class Links
 		{
-			items=87;
+			items=88;
 			class Item0
 			{
 				linkID=0;
@@ -10416,6 +10414,16 @@ class Mission
 				linkID=86;
 				item0=747;
 				item1=752;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item87
+			{
+				linkID=87;
+				item0=544;
+				item1=576;
 				class CustomData
 				{
 					type="Sync";
